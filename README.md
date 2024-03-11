@@ -10,6 +10,5 @@
 <h2>Technologies Used</h2>
 <ul>
 <li>React</li>
-<li>React Router</li>
 <li>Context API</li>
 </ul>
