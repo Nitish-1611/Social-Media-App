@@ -1,5 +1,5 @@
 <h1>Social Media App</h1>
-<p>This is a simple social media app created using React, React Router, and Context API. The app allows users to view a list of posts and create new posts.</p>
+<p>This is a simple social media app created using React and Context API. The app allows users to view a list of posts and create new posts.</p>
 
 <h2>Features</h2>
 <ul>
