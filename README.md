@@ -1,8 +1,15 @@
-# React + Vite
+<h1>Social Media App</h1>
+<p>This is a simple social media app created using React, React Router, and Context API. The app allows users to view a list of posts and create new posts.</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>Features</h2>
+<ul>
+<li>View a list of posts</li>
+<li>Create new posts</li>
+</ul>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>Technologies Used</h2>
+<ul>
+<li>React</li>
+<li>React Router</li>
+<li>Context API</li>
+</ul>
